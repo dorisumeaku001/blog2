@@ -1,0 +1,195 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.section1 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.section1 h1 {
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(2, 2, 24);
+    margin-left: -85;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 35px 15px;
+}
+
+li {
+    display: flex;
+    flex-direction: row;
+}
+.access a:hover {
+    display: block;
+    background-color: rgb(165, 165, 216);
+}
+
+.section2 {
+    position: relative;
+    padding-left: 150px;
+}
+
+.section3 {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    
+}
+.image1:hover {
+    background-color: #eaeaeb;
+    border-radius: 10px;
+    transform: scale(1.1);
+    transition: 0.5s;
+
+}    
+
+.image2:hover {
+    background-color: #eaeaeb;
+    border-radius: 10px;
+    transform: scale(1.1);
+    transition: 0.5s;
+}  
+
+.image3:hover {
+    background-color: #eaeaeb;
+    border-radius: 10px;
+    transform: scale(1.1);
+    transition: 0.5s;
+} 
+.image4:hover {
+    background-color: #eaeaeb;
+    border-radius: 10px;
+    transform: scale(1.1);
+    transition: 0.5s;
+} 
+.image5:hover {
+    background-color: #eaeaeb;
+    border-radius: 10px;
+    transform: scale(1.1);
+    transition: 0.5s;
+} 
+.image6:hover {
+    background-color: #eaeaeb;
+    border-radius: 10px;
+    transform: scale(1.1);
+    transition: 0.5s;
+} 
+.image7:hover {
+    background-color: #eaeaeb;
+    border-radius: 10px;
+    transform: scale(1.1);
+    transition: 0.5s;
+} 
+.image8:hover {
+    background-color: #eaeaeb;
+    border-radius: 10px;
+    transform: scale(1.1);
+    transition: 0.5s;
+} 
+.image9:hover {
+    background-color: #eaeaeb;
+    border-radius: 10px;
+    transform: scale(1.1);
+    transition: 0.5s;
+} 
+
+
+.section3 h2 {
+    color: rgb(60, 54, 170);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.containerb {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 8px;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e6e1ef;
+    padding: 15px;
+    width: 90px;
+    color: #422c5f;
+    border-radius: 5px;
+    border-color: #e6e1ef;
+}   
+
+.container{
+    max-width: 1500px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+ol{
+    list-style: none;
+    color: white;
+}
+.footer {
+    background-color: rgb(44, 44, 114);
+    padding-left: 70px;
+    color: white;
+}
+.footer-col {
+    width: -35%;
+    padding: 0 -25px;
+}
+.footer-col h3 {
+    font: size 16px;
+    color: white;
+    text-transform: capitalize;
+    margin-top: 30px;
+}
+
+.footer-col a{
+    color: white;
+    padding-right: 150px;
+    margin-top: -50px;
+    margin-left: -50px;
+}
+
+.footer-col p{
+    margin-left: -35px;
+} 
+
+/*html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}*/
+
+
+/* header styles */
+header section h1 {
+    
+}
